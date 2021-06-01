@@ -1,0 +1,21 @@
+﻿  Hive.cpp
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(365,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(417,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(567,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(607,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(1048,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+  SocketServer.cpp
+  Tile.cpp
+  TranspositionTable.cpp
+  globals.cpp
+  main.cpp
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(1256,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(132,33): warning C4244:  "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(206,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(230,22): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(262,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(263,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(447,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Hive.cpp(704): warning C4715:  "Hive::getAmountOfNeighbours”: niewszystkie ścieżki kodu zwracają wartość
+  Hive.vcxproj -> C:\Users\Olek\source\repos\Hive\Debug\Hive.exe

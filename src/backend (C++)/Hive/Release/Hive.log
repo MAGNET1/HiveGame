@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(132,33): warning C4244:  "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(206,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(230,22): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(262,20): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(263,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Olek\source\repos\Hive\Hive\Game.h(447,21): warning C4018:  "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  2 of 1879 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Hive.vcxproj -> C:\Users\Olek\source\repos\Hive\Release\Hive.exe
